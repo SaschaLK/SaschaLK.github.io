@@ -2,18 +2,18 @@ html, body {
     width: 100%;
 }
 
-ul{
+#navbar ul{
     list-style-type: none;
     margin: 0 auto;
     padding: 0;
     overflow: hidden;
 }
 
-li{
+#navbar li{
     display: inline;
 }
 
-li a{
+#navbar li a{
     display: block;
     color: white;
     text-align: center;
@@ -21,12 +21,6 @@ li a{
     text-decoration: none;
 }
 
-li a:hover {
+#navbar li a:hover {
     background-color: #111;
-}
-
-#navbar {
-    margin: 0;
-    padding: 0;
-    align-content: center;
 }
