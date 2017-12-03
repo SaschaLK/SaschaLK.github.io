@@ -3,7 +3,14 @@
         <div id="projects_content">
             <h2>MediTech</h2>
             <p id="mediTechContent">
-                MediTech was an Award winning Project.
+MediTech was an award-winning Life-Action Game with multiple Stages, including a public closing event.
+The stages consisted of a setup stage in which participants where “recruited” via hints across the City as well as via web presence. 
+A validation stage where participants had to solve riddles to become eligible to participate in the final event and lastly the life-action stage, where we invited all participants who successfully solved all puzzles.
+Although each puzzle didn’t have just one correct solution, because depending on each participants answer they would get affiliated with one out of four starting characters. 
+During the life event, the participants could choose which further actions to take and therefore change the outcome of the event.
+
+My position for this thirty-man project was Writer, Project Designer, Game Designer as well being part of the Project Managing Group. I designed the Story and general layout of the events as well as defining the setting.
+
             </p>
         </div>
     </body>
