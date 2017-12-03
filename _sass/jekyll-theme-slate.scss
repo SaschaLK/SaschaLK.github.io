@@ -293,7 +293,7 @@ Full-Width Styles
 
 #header_wrap .inner {
     padding: 50px 10px 10px 10px;
-    max-width: 100%;
+    max-width: 1000px;
 }
 
 #project_title {
@@ -302,7 +302,7 @@ Full-Width Styles
     text-align: center;
     color: #fff;
     font-size: 42px;
-    font-weight: 700;
+    font-weight: 100;
     text-shadow: #111 0px 0px 10px;
 }
 
@@ -312,6 +312,7 @@ Full-Width Styles
     font-weight: 300;
     background: none;
     text-shadow: #111 0px 0px 10px;
+    text-align: center;
 }
 
 #downloads {

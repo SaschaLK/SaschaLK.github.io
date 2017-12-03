@@ -10,6 +10,8 @@ html, body {
 #projects_content {
     background-color: ghostwhite;
     padding: 12px;
+    padding-left: 15px;
+    padding-right: 15px;
     box-shadow: 10px -10px 5px lightgrey;
     border-radius: 8px;
 }
@@ -19,7 +21,7 @@ html, body {
 }
 
 #mediTechImages img{
-    padding: 8px;
+    padding: 7px;
     width: 30%;
     height: 120px;
 }
@@ -29,7 +31,7 @@ html, body {
     margin: 0 auto;
     padding: 0;
     overflow: hidden;
-    width: 50%;
+    width: 100%;
 }
 
 #navbar li{
@@ -48,4 +50,13 @@ html, body {
 
 #navbar li a:hover {
     background-color: #03233A;
+}
+
+#project_title {
+    font-family: "Meiryo";
+}
+
+#project_tagline {
+    font-family: "Calibri";
+    letter-spacing: 1px;
 }
