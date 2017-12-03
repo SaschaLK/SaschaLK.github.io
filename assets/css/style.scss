@@ -29,6 +29,7 @@ html, body {
     margin: 0 auto;
     padding: 0;
     overflow: hidden;
+    width: 50%;
 }
 
 #navbar li{
@@ -41,27 +42,10 @@ html, body {
     text-align: center;
     padding: 14px 15px;
     text-decoration: none;
+    width: 151px;
+    letter-spacing: 1px;
 }
 
 #navbar li a:hover {
-    background-color: #111;
-}
-
-#projects_navbar ul{
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    width: 180px;
-    background-color: gainsboro;
-}
-
-#projects_navbar li a{
-    text-decoration: none;
-    display: block;
-    padding: 5px;
-}
-
-#projects_navbar li a:hover{
-    background-color: darkgray;
+    background-color: #03233A;
 }

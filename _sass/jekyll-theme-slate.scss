@@ -285,7 +285,7 @@ Full-Width Styles
 #header_wrap {
     background: #212121;
     background: -moz-linear-gradient(top, #373737, #212121);
-    background: -webkit-linear-gradient(top, #0C141C, #222D38);
+    background: -webkit-linear-gradient(top, #0D4269 40%, #03233A 100%);
     background: -ms-linear-gradient(top, #373737, #212121);
     background: -o-linear-gradient(top, #373737, #212121);
     background: linear-gradient(top, #373737, #212121);
@@ -293,6 +293,7 @@ Full-Width Styles
 
 #header_wrap .inner {
     padding: 50px 10px 10px 10px;
+    max-width: 100%;
 }
 
 #project_title {
@@ -363,7 +364,7 @@ Full-Width Styles
 }
 
 #footer_wrap {
-    background: #0C141C;
+    background: #03233A;
 }
 
 
