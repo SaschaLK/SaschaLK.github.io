@@ -24,13 +24,11 @@ html, body {
     height: 120px;
 }
 
-//temporary disabled content below
 #navbar ul{
     list-style-type: none;
     margin: 0 auto;
     padding: 0;
     overflow: hidden;
-    width: 45%;
 }
 
 #navbar li{
@@ -41,7 +39,7 @@ html, body {
     display: inline-block;
     color: white;
     text-align: center;
-    padding: 14px 16px;
+    padding: 14px 15px;
     text-decoration: none;
 }
 
