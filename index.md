@@ -2,7 +2,7 @@
     <body>
         <div id="projects_content">
             <h2>MediTech</h2>
-            <p id="mediTechContent">
+            <p id="textContent">
                 MediTech was an award-winning Life-Action Game with multiple Stages, including a public closing event.<br><br>
                 The stages consisted of a setup stage in which participants where “recruited” via hints across the City as well as via web presence. <br>
                 A validation stage where participants had to solve riddles to become eligible to participate in the final event and lastly the life-action stage, where we invited all participants who successfully solved all puzzles.<br>
