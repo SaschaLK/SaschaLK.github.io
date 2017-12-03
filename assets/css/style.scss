@@ -8,12 +8,14 @@ html, body {
 }
 
 #projects_content {
-    background-color: azure;
+    background-color: ghostwhite;
+    padding: 12px;
+    box-shadow: 10px -10px 5px lightgrey;
+    border-radius: 8px;
 }
 
 #mediTechContent {
     padding: 10px;
-    background-color: aliceblue
 }
 
 //temporary disabled content below
