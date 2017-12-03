@@ -10,7 +10,7 @@
                 During the life event, the participants could choose which further actions to take and therefore change the outcome of the event.
                 <br><br>
                 My position for this thirty-man project was Writer, Project Designer, Game Designer as well being part of the Project Managing Group. I designed the Story and general layout of the events as well as defining the setting.
-                <br><br><br>
+                <br>
                 <div id="mediTechImages">
                     <img src="assets/images/MediTech/1.png" alt="interviewMediTech">
                     <img src="assets/images/MediTech/2.PNG" alt="sceneMediTech">
