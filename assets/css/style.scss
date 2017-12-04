@@ -20,16 +20,20 @@ html, body {
     padding: 10px;
 }
 
+#contentImages {
+    width: 100%;
+}
+
 #contentImages img{
     padding: 7px;
     width: 30%;
     height: 120px;
 }
 
-#casualTunaImageExtra {
+#casualTunaImageExtra img{
     padding: 7px;
     height: auto;
-    width: 80%;
+    width: 98%;
 }
 
 #navbar ul{

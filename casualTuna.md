@@ -11,14 +11,15 @@
                 This was achieved by simplifying the interface and creating a level system, which gradually unlocked more tools as the time passed on.
                 <br><br>
                 My roles where Game Designer, Project Manager as well as Scrum Master for the duration of the Jam. I designed the level system as well as the user experience, while staying in touch with every member of the team. Consequently I was responsible for combining and finalizing all ideas as well as the creative input from every member.
+            </p>
             <div id="contentImages">
-                <img src="assets/images/CasualTuna/CasualTunaLoad.png" alt="CasualTuna Titlescreen">
+                <img src="assets/images/CasualTuna/CasualTunaLateGame.png" alt="CasualTuna lategame">
                 <img src="assets/images/CasualTuna/CasualTunaIntro.png" alt="CasualTuna Intro">
                 <img src="assets/images/CasualTuna/CasualTunaBoxes.png" alt="CasualTuna Components">
             </div>
             <br>
             <div id="casualTunaImageExtra">
-                <img src="assets/images/CasualTuna/CasualTunaLateGame.png" alt="CasualTuna lategame">
+                <img src="assets/images/CasualTuna/CasualTunaLoad.png" alt="CasualTuna Titlescreen">
             </div>
         </div>
     </body>
