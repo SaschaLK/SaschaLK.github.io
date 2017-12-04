@@ -14,12 +14,11 @@
                 The project also won the "Karl H. Ditze Prize" for best project 2017. 
                 <a href="assets/images/DitzePreis.pdf">Link to the Certificate</a>
                 <br>
-                <div id="mediTechImages">
-                    <img src="assets/images/MediTech/1.png" alt="interviewMediTech">
-                    <img src="assets/images/MediTech/2.PNG" alt="sceneMediTech">
-                    <img src="assets/images/MediTech/3.PNG" alt="gameMediTech">
-                </div>
-            </p>
+            <div id="contentImages">
+                <img src="assets/images/MediTech/1.png" alt="interviewMediTech">
+                <img src="assets/images/MediTech/2.PNG" alt="sceneMediTech">
+                <img src="assets/images/MediTech/3.PNG" alt="gameMediTech">
+            </div>
         </div>
     </body>
 </html>
