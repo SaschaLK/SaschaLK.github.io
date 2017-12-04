@@ -3,7 +3,7 @@
         <div id="projects_content">
             <h2>Mining Man</h2>
             <p id="textContent">
-Work in Progress (December 4th, 2017).
+Content update to come(December 5th, 2017).
             </p>
         </div>
     </body>
