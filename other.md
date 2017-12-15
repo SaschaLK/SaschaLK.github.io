@@ -22,12 +22,15 @@
                     <br>
                 </div>
                 <div>
-                    <h4>World War 2 - Website</h4>
+                    <h4>World War 2 - Navigator</h4>
                     <p>
                         A website dedicated to the most relevent military events during World War 2.
                         I was responsible for most of the artwork, database design, website-markup as well as project management. 
                     </p>
+                    <br>
                     <a href="http://aca083.pstud0.mt.haw-hamburg.de/index.php">Link to the website.</a>
+                    <br>
+                    <a href="assets/Other/World%20War%202%20-%20Navigator.pdf">Link to the project report. English</a>
                 </div>
             </div>
         </div>
