@@ -14,10 +14,11 @@
                 <br><br>
                 This project was almost entirely made by myself aside from some assistance for minor tasks.
             </p>
-            <div id="contentImages">
+            <div id="contentImagesWarCouncil">
                 <img src="assets/images/WarCouncil/MainMenuRPG.png" alt="MainMenuRPG">
-                <img src="assets/images/WarCouncil/MainMenuSpace.png" alt="MainMenuSpace">
                 <img src="assets/images/WarCouncil/RPGSpace.jpg" alt="RPGMap">
+                <br>
+                <img src="assets/images/WarCouncil/MainMenuSpace.png" alt="MainMenuSpace">
                 <img src="assets/images/WarCouncil/SpaceMap.jpg" alt="SpaceMap">
             </div>
         </div>
