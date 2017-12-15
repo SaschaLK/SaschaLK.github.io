@@ -32,7 +32,7 @@ html, body {
 
 #contentImagesWarCouncil img{
     padding: 7px;
-    width: 48%;
+    width: 47%;
     height: 120px;
 }
 
@@ -81,9 +81,17 @@ html, body {
     letter-spacing: 1px;
 }
 
-#footerLine table tr td{
-    border: 0;
+#footerLine tr td{
+    border: none;
     color: white;
+}
+
+#footerLine table{
+    border: none;
+}
+
+#footerLine td{
+    width: 330px;
 }
 
 #lastUpdated {

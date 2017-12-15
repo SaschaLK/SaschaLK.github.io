@@ -10,12 +10,12 @@
                 My responsibilities in this project where to design the game as well as to manage the project and to program it.  
             </p>
             <div id="contentImages">
-                <img src="assets/images/Mining%2520Man/ScreenMining3.png" alt="Ingame1">
-                <img src="assets/images/Mining%2520Man/ScreenMining2.png" alt="Ingame2">
-                <img src="assets/images/Mining%2520Man/ScreenMining4.png" alt="Ingame3">
+                <img src="assets/images/MiningMan/ScreenMining3.png" alt="Ingame1">
+                <img src="assets/images/MiningMan/ScreenMining2.png" alt="Ingame2">
+                <img src="assets/images/MiningMan/ScreenMining4.png" alt="Ingame3">
                 <br>
                 <div id="projectImageExtra">
-                    <img src="assets/images/Mining%2520Man/ScreenMining5.png" alt="GameScene">
+                    <img src="assets/images/MiningMan/ScreenMining5.png" alt="GameScene">
                 </div>
             </div>
         </div>
