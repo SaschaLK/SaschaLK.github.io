@@ -18,7 +18,9 @@
                 <div>
                     <h4>Paper on in-game currencies</h4>
                     Analysis on in-game currencies.
+                    <br>
                     <a href="assets/Other/W%C3%A4hrungen%20in%20Games%20-%20Medien%20und%20Wirtschaft%20-%20Sascha%20Kufahl.pdf">Link to the paper. (German)</a>
+                    <br>
                     <br>
                 </div>
                 <div>
@@ -27,10 +29,9 @@
                         A website dedicated to the most relevent military events during World War 2.
                         I was responsible for most of the artwork, database design, website-markup as well as project management. 
                     </p>
-                    <br>
                     <a href="http://aca083.pstud0.mt.haw-hamburg.de/index.php">Link to the website.</a>
                     <br>
-                    <a href="assets/Other/World%20War%202%20-%20Navigator.pdf">Link to the project report. English</a>
+                    <a href="assets/Other/World%20War%202%20-%20Navigator.pdf">Link to the project report. (English)</a>
                 </div>
             </div>
         </div>
