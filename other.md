@@ -14,9 +14,20 @@
                         <iframe width="560" height="315" src="https://www.youtube.com/embed/khosEH_eFx0" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
                     </div>
                     <br>
+                </div>
+                <div>
                     <h4>Paper on in-game currencies</h4>
                     Analysis on in-game currencies.
                     <a href="assets/Other/W%C3%A4hrungen%20in%20Games%20-%20Medien%20und%20Wirtschaft%20-%20Sascha%20Kufahl.pdf">Link to the paper. (German)</a>
+                    <br>
+                </div>
+                <div>
+                    <h4>World War 2 - Website</h4>
+                    <p>
+                        A website dedicated to the most relevent military events during World War 2.
+                        I was responsible for most of the artwork, database design, website-markup as well as project management. 
+                    </p>
+                    <a href="http://aca083.pstud0.mt.haw-hamburg.de/index.php">Link to the website.</a>
                 </div>
             </div>
         </div>
