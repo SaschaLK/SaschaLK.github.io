@@ -5,7 +5,7 @@
             <p id="textContent">
                 Casual Tuna was a game project and part of the <a href="https://www.igjam.eu/jams/igjam-11-feat-hamburger-fern-hochschule/">InnoGamesJam #11</a>. 
                 <br><br>
-                The motivation for this project was to enable inexperienced users, and users who were unfamiliar with the music terminology, to compose and create their very own music. 
+                The motivation for this project was to enable inexperienced users, and users who were unfamiliar with the music terminology, to compose and create their very own beats. 
                 <br>
                 Meant as an introduction to the composing scene, this web application introduces the player to the first essentials of most music software, while doing so in a playful manner.
                 This was achieved by simplifying the interface and creating a level system, which gradually unlocked more tools as the time passed on.

@@ -6,9 +6,9 @@
                 War Council is a turned based strategy game in which two factions fight for dominance and try to overwhelm their opponent.
                 <br>
                 Each tile generates tickets and the player to first accumulate enough tickets will win the game.
-                Some tiles feature special interactions such as generating resources or allowing the player to recruit   units or create spells.
+                Some tiles feature special interactions such as generating resources or allowing the player to recruit units or create spells.
                 <br>
-                Units are required to capture or defend tiles. Spells on the other hand are used to give the caster an advantage or put his opponent at an disadvantage. Some of these spells allow to block tiles for some amount of time or to grant extra movement to units.
+                Units are used to capture or defend tiles. Spells on the other hand are spent to give the caster a temporary advantage or put his opponent at a disadvantage. Some of these spells allow to block tiles for some amount of time or to grant extra movement to units.
                 <br>
                 All interactions are done via touch, such as drag and drop for units or multitap and pinch for spells.
                 <br><br>
